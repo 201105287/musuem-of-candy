@@ -1,2 +1,2 @@
 # musuem-of-candy
-![image](https://user-images.githubusercontent.com/115342968/204372350-a35d8c6e-c9f5-4f8e-ab8f-54bd28da6b38.png)
+![image](https://user-images.githubusercontent.com/115342968/204377309-d728517f-e6fe-4d56-a44f-77830db84bd9.png)
